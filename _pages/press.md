@@ -12,7 +12,7 @@ newspapers and media outlets in the past.
 
 ## Videos
 
-1. [Zee News](https://www.youtube.com/watch?v=qj4JbB4GRD4)
+1. [Sun News](https://www.youtube.com/watch?v=qj4JbB4GRD4)
 2. [Aaj Tak](https://www.aajtak.in/business/utility/video/upi-making-users-to-overspend-while-some-helping-saving-iit-delhi-survey-reveals-1941206-2024-05-10)
 3. [NDTV India](https://www.youtube.com/watch?v=zUzGH9r_BwU)
 4. [NDTV Profit](https://www.youtube.com/watch?v=VcfFPmTLkUM)
