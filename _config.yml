@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Dhruv
+first_name: Rajesh Kumar
 middle_name:
-last_name: Kumar
-email: dhruv.kumar@iiitd.ac.in
+last_name: N
+email: rk6030@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Dhruv Kumar, Computer Scientist and Professor at IIIT
 footer_text: >
@@ -68,16 +68,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: kudhru # your GitHub user name
+github_username: rk6030 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: cobNGlcAAAAJ # your Google Scholar ID
+scholar_userid: 0ktNXT4AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0003-4831-1847 # your ORCID ID
+orcid_id: 0000-0001-5394-218X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
