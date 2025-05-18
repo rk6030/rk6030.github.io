@@ -6,11 +6,11 @@ subtitle:
   <b> &#x2022; </b> <b>Assistant Professor at </b> <a href="https://www.bits-pilani.ac.in/pilani/">BITS 
   Pilani</a> &#x2022; <b>On Leave From</b> <a href="https://iiitd.ac.in/">IIIT Delhi</a> <br/> 
   &#x2022; <b>Post-Doc</b> from <a href="https://www.microsoft.
-  com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> &#x2022; <b>PhD</b> from <a href="https://cse.umn.edu/cs">UMN Twin Cities</a>
+  com/en-us/research/lab/microsoft-research-india/">Microsoft Research</a> &#x2022; <b>PhD</b> from <a href="https://cse.umn.edu/cs">SASTRA Deemed University</a>
 
 profile:
   align: right
-  image: prof_pic_cropped.jpeg
+  image: prof_pic_cropped.jeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>6121-N, NAB</p>
