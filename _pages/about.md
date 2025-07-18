@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: 
-  <b> &#x2022; </b> <b>Assistant Professor at </b> <a href="https://www.sastra.edu/">SASTRA  </a> &#x2022; <b>Co-Ordinator</b> <a href="https://fossee.in/">S-FOSS</a> <br/> 
+  <b> &#x2022; </b> <b>Assistant Professor at </b> <a href="https://www.sastra.edu/">SASTRA  </a> &#x2022; <b>Coordinator</b> <a href="https://fossee.in/">S-FOSS</a> <br/> 
   &#x2022; <b>MCA</b> from <a href="https://www.alagappauniversity.ac.in/">Alagappa University</a> &#x2022; <b>PhD</b> from <a href="https://www.sastra.edu/">SASTRA Deemed University</a>
 
 profile:
@@ -26,11 +26,11 @@ currently on leave from [IIIT
 Delhi](https://iiitd.ac.in/) where I am still part of the faculty from 2022 to 2024. In the 
 Past, I was a Post-Doc Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). Prior to Post-Doc, I completed my PhD under [Abhishek Chandra](https://www-users.cse.umn.edu/~chandra/) in the [Computer Science Department](https://cse.umn.edu/cs) at the [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/). During my PhD, I also collaborated with [Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) at [University of Massachusetts, Amherst](https://www.umass.edu/). Long time back, I graduated in 2014 with a Bachelors in Computer Science from [BITS,Pilani](https://www.bits-pilani.ac.in/pilani/). -->
 
-I am currently working as Assistant Professor in the Department of Computer Science and Engineering, Srinivasa Ramanujan Centre,[SASTRA Deemed University](https://www.sastra.edu/)[Kumbakonam]. <!--I continue to collaborate closely with students and faculty members at IIIT Delhi.-->
+I am currently working as Assistant Professor in the Department of Computer Science and Engineering, Srinivasa Ramanujan Centre,[SASTRA Deemed University ](https://www.sastra.edu/)[Kumbakonam](https://src.sastra.edu/). <!--I continue to collaborate closely with students and faculty members at IIIT Delhi.-->
 
 I completed my PhD in Visual Cryptography under [Dr.N.R.Raajan](https://sastra.irins.org/profile/165891) at School of Computing, SASTRA Deemed University, Thanjavur, India in 2021. <!--During my PhD, I also collaborated with [Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) at University of Massachusetts, Amherst,-->
 
-Before joining SASTRA, I obtained my Master of Computer Applications (MCA) degree from [Alagappa University](https://www.alagappauniversity.ac.in/),Karaikudi in 2009.I also earned   B.Sc. in Physics from [Alagappa University](https://www.alagappauniversity.ac.in/) in 2003.
+Before joining SASTRA, I obtained my Master of Computer Applications (MCA) degree from [Alagappa University](https://www.alagappauniversity.ac.in/), Karaikudi in 2009. I also earned   B.Sc. in Physics from [Alagappa University](https://www.alagappauniversity.ac.in/) in 2003.
 
  
 
