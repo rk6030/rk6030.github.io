@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
-cv_pdf: RajeshKumar_CV.pdf
+cv_pdf: CV_Rajesh_kumar.pdf
 ---
