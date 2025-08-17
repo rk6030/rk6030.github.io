@@ -4,10 +4,12 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p,a, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
-
+a {
+  font-weight: bold;
+}
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -130,10 +132,10 @@ blockquote {
   font-size: 0.875rem;
   a {
     color: inherit;
-    &:hover {
+    &:hover{
       color: var(--global-theme-color);
       text-decoration: none;
-      font-weight: bold;
+      
     }
   }
 }
