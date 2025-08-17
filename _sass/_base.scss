@@ -129,6 +129,7 @@ blockquote {
   margin-bottom: 2rem;
   font-size: 0.875rem;
   a {
+    font-weight: bold;
     color: inherit;
     &:hover {
       color: var(--global-theme-color);
