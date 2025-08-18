@@ -4,12 +4,10 @@
 
 // Typography
 
-p,a, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p,h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
-a {
-  font-weight: bold;
-}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -29,6 +27,7 @@ table {
 
 a, table.table a {
   color: var(--global-theme-color);
+  font-weight: bold;
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
